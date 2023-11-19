@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsCrawing</string>
+    <string name="server_addr">"http://118.67.129.167/project1_1.php/"</string>
+</resources>
